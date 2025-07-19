@@ -230,6 +230,10 @@ main > section{
 .sponsors-company{
     display: grid;
     grid-template-columns: repeat(5, 1fr);
+    margin-bottom: 50px;
+}
+.our-sponsors{
+    margin-bottom: 30px;
 }
 .sponsors-company img{
     filter: grayscale(100%);
